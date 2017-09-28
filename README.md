@@ -9,9 +9,10 @@ tensorflow学习
 
 ###商业用途  
 禁止用于商业用途  
-  
+
 By Master, Beiming  
+
 Email:   <beimingmaster@gmail.com>  
-Wechat:  <beimingmaster>  
+Wechat:  beimingmaster  
 
 &copy;2017   

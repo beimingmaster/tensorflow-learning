@@ -91,9 +91,9 @@ import tensorflow as tf
 
   
 
- By Master, Beiming  
+By Master, Beiming   
 
 Email:   <beimingmaster@gmail.com>  
-Wechat:  <beimingmaster>  
+Wechat:  beimingmaster  
 
 &copy;2017  
